@@ -1,0 +1,11 @@
+package ch18;
+
+public class CompanyTest {
+    public static void main(String[] args) {
+        Company company1 = Company.getInstance(); //이미 생겨있어서 new 할 필요가 없음
+        Company company2 = Company.getInstance();
+
+        System.out.println(company1);
+        System.out.println(company2);
+    }
+}

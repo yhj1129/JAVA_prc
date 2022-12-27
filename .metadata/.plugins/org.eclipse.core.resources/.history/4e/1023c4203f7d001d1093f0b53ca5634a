@@ -1,0 +1,27 @@
+package ch10;
+
+public class TypeConversionTest {
+
+	public static void main(String[] args) {
+		
+//		int iNum = 255;
+//		byte bNum = (byte)iNum;
+//		
+//		System.out.println(bNum); // 이상한 값이 나온다
+//		
+//		double dNum = 3.14;
+//		int inum = (int)dNum;
+//		
+//		System.out.println(inum);
+		
+		double dnum = 1.2;
+		float fnum = 0.9f;
+		
+		int inum1 = (int)dnum + (int)fnum;
+		int inum2 = (int)(dnum + fnum);
+		
+		System.out.println(inum1);
+		System.out.println(inum2);
+	}
+
+}

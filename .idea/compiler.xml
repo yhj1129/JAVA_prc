@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Chapter3" target="11" />
+      <module name="Chapter3.main" target="11" />
+      <module name="Chapter3.test" target="11" />
+      <module name="Chapter4" target="11" />
+      <module name="Chapter4.main" target="11" />
+      <module name="Chapter4.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

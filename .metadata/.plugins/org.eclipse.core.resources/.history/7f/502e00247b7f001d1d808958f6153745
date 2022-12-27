@@ -1,0 +1,23 @@
+package ch8_practice;
+
+import java.util.Scanner;
+
+public class OrderTest{
+	public static void main(String[] args) {
+		
+		String orderNumber;
+		String orderPhoneNumber;
+		String orderAddress;
+		String orderDate;
+		String orderTime;
+		String orderPrice;
+		String orderMenu;
+		
+		Scanner scanner = new Scanner(System.in);
+		
+		
+	}
+	
+
+	
+}

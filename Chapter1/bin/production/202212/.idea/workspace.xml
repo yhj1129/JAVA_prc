@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="80e7d9c8-30e0-4109-812f-5904721e51f3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Chapter5/src/ch13/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5/src/ch13/MemberTreeSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5/src/ch13/MemberTreeSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5/src/ch14/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5/src/ch14/MemberHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5/src/ch14/MemberHashMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch01/InnerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch02/Add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch02/AddTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch03/MyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch03/MyNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch04/StringConcat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch04/StringConcatImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch04/StringConcatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch05/ArrayListStreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch05/IntArrayStreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch06/ReduceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch07/TravelCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch07/TravelCustomerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/202212.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/202212.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter2/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter3/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/src/ch12/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter5/src/ch111/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/src/ch12/MemberHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter5/src/ch111/MemberHashSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/src/ch12/MemberHashSetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter5/src/ch111/MemberHashSetTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Jcb4yOlnOjTUvz3qHx1dsoVzdR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jju/Downloads/202212/202212/Chapter5/src/ch14&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jju\Downloads\202212\202212\Chapter5\src\ch14" />
+      <recent name="C:\Users\jju\Downloads\202212\202212\Chapter5\src\ch13" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jju\Downloads\202212\202212" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="src.ch14" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ArrayIndexException">
+    <configuration name="AddTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.ch02.AddTest" />
+      <module name="202212" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.ch02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayIndexException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.ch08.ArrayIndexException" />
+      <module name="202212" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.ch08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyNumberTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.ch03.MyNumberTest" />
+      <module name="202212" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.ch03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringConcatTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.ch04.StringConcatTest" />
+      <module name="202212" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.ch04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TravelCustomerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.ch07.TravelCustomerTest" />
+      <module name="202212" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.ch07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArrayIndexException" />
+        <item itemvalue="Application.TravelCustomerTest" />
+        <item itemvalue="Application.MyNumberTest" />
+        <item itemvalue="Application.AddTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80e7d9c8-30e0-4109-812f-5904721e51f3" name="Changes" comment="" />
+      <created>1672380131096</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672380131096</updated>
+      <workItem from="1672380133391" duration="802000" />
+      <workItem from="1672400263681" duration="43000" />
+      <workItem from="1672402155769" duration="374000" />
+      <workItem from="1672573246713" duration="2179000" />
+      <workItem from="1672629761720" duration="8253000" />
+      <workItem from="1672639821279" duration="5630000" />
+      <workItem from="1672653429939" duration="186000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

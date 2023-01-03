@@ -1,0 +1,15 @@
+
+}
+java:S1192"gDefine a constant instead of duplicating this literal "(ì™¸ë¶€ í´ë˜ìŠ¤ì˜ ìŠ¤íƒœí‹± ë³€ìˆ˜)" 3 times.(‚Î…é
+g
+java:S1192"QDefine a constant instead of duplicating this literal "OutClass sNum = " 3 times.(‚Î…é
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¿²ü«
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‚Î…é
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ¾‚Öşÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(·’®Ç
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(‚Î…é
+N	java:S106""9Replace this use of System.out or System.err by a logger.(ï×éÏ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(‚Î…é
+V	java:S125&"<This block of commented-out lines of code should be removed.(®ãÎÆøÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(ï×éÏ
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8‡²†×0

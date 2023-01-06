@@ -1,0 +1,12 @@
+1월 03, 2023 7:22:38 오후 src.ch11.MyLogger log
+WARNING: log test
+1월 03, 2023 7:22:38 오후 src.ch11.MyLogger log
+SEVERE: log test
+1월 03, 2023 7:34:48 오후 src.ch11.MyLogger warning
+WARNING: name must not be null
+1월 03, 2023 7:34:48 오후 src.ch11.MyLogger warning
+WARNING: 이름이 너무 길어요
+1월 03, 2023 7:35:59 오후 src.ch11.MyLogger warning
+WARNING: name must not be null
+1월 03, 2023 7:35:59 오후 src.ch11.MyLogger warning
+WARNING: 이름이 너무 길어요

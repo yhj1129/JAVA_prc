@@ -1,20 +1,0 @@
-
-{
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ðª©Óùÿÿÿÿ8Ê¦¿—Ö0
-{
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(™½ïóÿÿÿÿÿ8Ú¦¿—Ö0
-u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬¥í"8Ý¦¿—Ö0
-]
-java:S1854";Remove this useless assignment to local variable "plastic".(úÞð¬øÿÿÿÿ8ù¦¿—Ö0
-\
-java:S1854
-":Remove this useless assignment to local variable "powder".(éÛÊ©øÿÿÿÿ8‡§¿—Ö0
-M
-java:S1481
-"+Remove this unused "powder" local variable.(éÛÊ©øÿÿÿÿ8–§¿—Ö0
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ÛÆá…8§§¿—Ö0
-N
-java:S1481",Remove this unused "plastic" local variable.(úÞð¬øÿÿÿÿ8µ§¿—Ö0
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ø‹â€ÿÿÿÿÿ8Ä§¿—Ö0
-X	java:S125"<This block of commented-out lines of code should be removed.(Þ¡ã£8ó§¿—Ö0
-]	java:S125"<This block of commented-out lines of code should be removed.(Ã¤‰úÿÿÿÿ8ô§¿—Ö0

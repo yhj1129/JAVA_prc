@@ -4,289 +4,109 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80e7d9c8-30e0-4109-812f-5904721e51f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/04a0c3476c4b66984ea8b7af7771bc015e64f4f9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/1/111a8e351fb3fbf0619d45583345fd9186923c0b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/c/1c741a57ee607e21726a4a0d69bae50e358352ea" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/275d9695f413ccd0a7d12593678d3ae1df318811" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/6/361e4054ae4fa8358cebb028d7777bd24562d157" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/38f3018f18b5d58b24171905dc3a9d4cc163b09d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/8/482bd3ca5a1e5c837c1260ffd8f578f900de70ee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/4/545fe07b87ae6d6e6a578eb931dd1a5dadf3ce0d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/9/69d4a3326b06914c3162c06757d5e1fff53ba0d1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/71831c812bf98ba478db8ef0bbf07f69d5b8ac14" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/1/81813cde99a7a8eacea384b7b5a226f0fcc41b19" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/5/9544b95e4285ebfaf9a84ae68ee63dc6603f760b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/9/9972bf703d034ce8254c2aba9d4f360cb011b39e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a5ce277e87238b7c50c92adc922849fe7f6b849d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/6/a674efef0476c2105803080be702a2caa1386d7a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/1/b14b4b3420ee45de82979df5c5f73b82183b57ee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bbbd9a64729ba505bbc9236b1082592414def63c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/f/bf5125adf815f65e04d57282876420419bca4aa8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/0/c02b07ea1c587eceeaca740415d369550c26289c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/4/c45da94c5d52c8767412d1ed66332f7dc4a1704a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/4/c47f93c51356168c3a90eeecda120fcfefe07883" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c561706e67fe10bb1b76075b28de7c7af8607f14" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/7/c71e8e16aae8018a53ae943f29d59159582df06d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e32df2556c446da873530415daff2dcce62835ad" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e55c763afa090e5fe88b58f9670aa8e5e54b6b50" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f038dc083e9929d29d759c8303894c99fce1820b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/e/fe3c612c0c7bb09d9813acbf62e15170b0c5ef45" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/.idea/202212.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/.idea/sonarlint/issuestore/0/4/04a0c3476c4b66984ea8b7af7771bc015e64f4f9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/.idea/sonarlint/issuestore/1/1/111a8e351fb3fbf0619d45583345fd9186923c0b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/.idea/sonarlint/issuestore/1/c/1c741a57ee607e21726a4a0d69bae50e358352ea" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/.idea/sonarlint/issuestore/2/7/275d9695f413ccd0a7d12593678d3ae1df318811" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/.idea/sonarlint/issuestore/3/6/361e4054ae4fa8358cebb028d7777bd24562d157" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/.idea/sonarlint/issuestore/3/8/38f3018f18b5d58b24171905dc3a9d4cc163b09d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/.idea/sonarlint/issuestore/4/8/482bd3ca5a1e5c837c1260ffd8f578f900de70ee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/.idea/sonarlint/issuestore/5/4/545fe07b87ae6d6e6a578eb931dd1a5dadf3ce0d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/.idea/sonarlint/issuestore/6/9/69d4a3326b06914c3162c06757d5e1fff53ba0d1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/.idea/sonarlint/issuestore/7/1/71831c812bf98ba478db8ef0bbf07f69d5b8ac14" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/.idea/sonarlint/issuestore/8/1/81813cde99a7a8eacea384b7b5a226f0fcc41b19" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/.idea/sonarlint/issuestore/9/5/9544b95e4285ebfaf9a84ae68ee63dc6603f760b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/.idea/sonarlint/issuestore/9/9/9972bf703d034ce8254c2aba9d4f360cb011b39e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/.idea/sonarlint/issuestore/a/5/a5ce277e87238b7c50c92adc922849fe7f6b849d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/.idea/sonarlint/issuestore/a/6/a674efef0476c2105803080be702a2caa1386d7a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/.idea/sonarlint/issuestore/b/1/b14b4b3420ee45de82979df5c5f73b82183b57ee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/.idea/sonarlint/issuestore/b/b/bbbd9a64729ba505bbc9236b1082592414def63c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/.idea/sonarlint/issuestore/b/f/bf5125adf815f65e04d57282876420419bca4aa8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/.idea/sonarlint/issuestore/c/0/c02b07ea1c587eceeaca740415d369550c26289c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/.idea/sonarlint/issuestore/c/4/c45da94c5d52c8767412d1ed66332f7dc4a1704a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/.idea/sonarlint/issuestore/c/4/c47f93c51356168c3a90eeecda120fcfefe07883" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/.idea/sonarlint/issuestore/c/5/c561706e67fe10bb1b76075b28de7c7af8607f14" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/.idea/sonarlint/issuestore/c/7/c71e8e16aae8018a53ae943f29d59159582df06d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/.idea/sonarlint/issuestore/e/3/e32df2556c446da873530415daff2dcce62835ad" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/.idea/sonarlint/issuestore/e/5/e55c763afa090e5fe88b58f9670aa8e5e54b6b50" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/.idea/sonarlint/issuestore/f/0/f038dc083e9929d29d759c8303894c99fce1820b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/.idea/sonarlint/issuestore/f/e/fe3c612c0c7bb09d9813acbf62e15170b0c5ef45" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/Chapter6/a.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/a.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/src/ch01/InnerTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/src/ch01/OutClass$InClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/src/ch01/OutClass$InStaticClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/src/ch01/OutClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/src/ch02/Add.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/src/ch02/AddTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/src/ch03/MyNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/src/ch03/MyNumberTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/src/ch04/StringConcat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/src/ch04/StringConcatImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/src/ch04/StringConcatTest$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/src/ch04/StringConcatTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/src/ch05/ArrayListStreamTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/src/ch05/IntArrayStreamTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/src/ch06/CompareString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/src/ch06/ReduceTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/src/ch07/TravelCustomer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/src/ch07/TravelCustomerTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/src/ch08/ArrayIndexException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/src/ch08/AutoCloseTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/src/ch08/AutoCloseableObj.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/src/ch08/FileExceptionHandling.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/src/ch08/ThrowsException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/src/ch10/PassWordException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/src/ch10/PassWordTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5/.idea/sonarlint/issuestore/8/6/869a130df3acd543bf4dfdcb6c864cb118a16f4a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5/.idea/sonarlint/issuestore/9/6/961edd8daefe4b0389b49ea94d98f6a30631c217" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5/src/ch13/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5/src/ch13/MemberTreeSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5/src/ch13/MemberTreeSetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5/src/ch14/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5/src/ch14/MemberHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5/src/ch14/MemberHashMapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter6/a.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch01/InnerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch02/Add.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch02/AddTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch03/MyNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch03/MyNumberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch04/StringConcat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch04/StringConcatImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch04/StringConcatTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch05/ArrayListStreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch05/IntArrayStreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch06/ReduceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch07/TravelCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch07/TravelCustomerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch08/ArrayIndexException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch08/AutoCloseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch08/AutoCloseableObj.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch08/FileExceptionHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch08/ThrowsException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch10/PassWordException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch10/PassWordTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/202212.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/202212.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter2/src/module-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/src/ch12/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter5/src/ch111/Member.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/src/ch12/MemberHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter5/src/ch111/MemberHashSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/src/ch12/MemberHashSetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter5/src/ch111/MemberHashSetTest.java" afterDir="false" />
+    <list default="true" id="e355239c-6d65-4863-8110-4f0e08c8f431" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/a.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/input2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/reader.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch05/ch11/LoggerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch05/ch11/MyLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch05/ch11/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch05/ch11/StudentNameFormatException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch05/ch11/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch13/SystemInTest11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch14/FileInputStreamTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch14/FileInputStreamTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch14/FileInputStreamTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch14/FileOutputStreamTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch14/FileOutputStreamTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch15/FileReaderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch15/FileWriterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch16/DataStreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch16/FileCopyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch16/InputStreamReaderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch17/SerializationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch18/RandomAccessFileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch20/ThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch21/JoinTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch21/PriorityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/ch21/TerminateThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fine.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/warning.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/202212.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/c/1c741a57ee607e21726a4a0d69bae50e358352ea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/275d9695f413ccd0a7d12593678d3ae1df318811" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/38f3018f18b5d58b24171905dc3a9d4cc163b09d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/71831c812bf98ba478db8ef0bbf07f69d5b8ac14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/9/9972bf703d034ce8254c2aba9d4f360cb011b39e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/4/c45da94c5d52c8767412d1ed66332f7dc4a1704a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/7/c71e8e16aae8018a53ae943f29d59159582df06d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e55c763afa090e5fe88b58f9670aa8e5e54b6b50" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f038dc083e9929d29d759c8303894c99fce1820b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/e/fe3c612c0c7bb09d9813acbf62e15170b0c5ef45" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter1/bin/production/202212/src/ch10/PassWordException.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/bin/production/202212/src/ch10/PassWordException.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectId" id="2Jcb4yOlnOjTUvz3qHx1dsoVzdR" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2JqZ2LIrRwVG8XQyHr9U2WRwpEq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Study/Java_online_ex",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Study/Java_online_ex/Chapter6&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\jju\Downloads\202212\202212\Chapter5\src\ch14" />
-      <recent name="C:\Users\jju\Downloads\202212\202212\Chapter5\src\ch13" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Study\Java_online_ex\Chapter6" />
-      <recent name="C:\Study\Java_online_ex\Chapter6\src\ch08" />
-      <recent name="C:\Study\Java_online_ex\Chapter6\src" />
-      <recent name="C:\Users\jju\Downloads\202212\202212" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="src.ch14" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.PassWordTest">
-    <configuration name="AutoCloseTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.ch08.AutoCloseTest" />
-      <module name="202212" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.ch08.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Java_online_ex" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileExceptionHandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.ch08.FileExceptionHandling" />
-      <module name="202212" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.ch08.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Java_online_ex" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PassWordTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.ch10.PassWordTest" />
-      <module name="202212" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.ch10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThrowsException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.ch08.ThrowsException" />
-      <module name="202212" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.ch08.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TravelCustomerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.ch07.TravelCustomerTest" />
-      <module name="202212" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.ch07.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.PassWordTest" />
-        <item itemvalue="Application.ThrowsException" />
-        <item itemvalue="Application.AutoCloseTest" />
-        <item itemvalue="Application.src.ch08.FileExceptionHandling" />
-        <item itemvalue="Application.TravelCustomerTest" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="80e7d9c8-30e0-4109-812f-5904721e51f3" name="Changes" comment="" />
-      <created>1672380131096</created>
+      <changelist id="e355239c-6d65-4863-8110-4f0e08c8f431" name="Changes" comment="" />
+      <created>1672807366009</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1672380131096</updated>
-      <workItem from="1672380133391" duration="802000" />
-      <workItem from="1672400263681" duration="43000" />
-      <workItem from="1672402155769" duration="374000" />
-      <workItem from="1672573246713" duration="2179000" />
-      <workItem from="1672629761720" duration="8253000" />
-      <workItem from="1672639821279" duration="5630000" />
-      <workItem from="1672653429939" duration="186000" />
-      <workItem from="1672730631578" duration="5724000" />
+      <updated>1672807366009</updated>
+      <workItem from="1672807368892" duration="246000" />
+      <workItem from="1672892027384" duration="317000" />
+      <workItem from="1672981833500" duration="75000" />
     </task>
     <servers />
   </component>
